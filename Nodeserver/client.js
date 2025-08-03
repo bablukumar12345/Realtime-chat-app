@@ -1,4 +1,11 @@
-const socket = io('http://localhost:8000');
+//on server
+const socketURL='https://realtime-chat-app-11-hcxx.onrender.com'
+
+//On Local 
+// const socketURL='http://localhost:8000'
+
+const socket = io(socketURL);
+
 
 let username = prompt("Enter your name to join");
 if (!username || username.trim() === "") {
