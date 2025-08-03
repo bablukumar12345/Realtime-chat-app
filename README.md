@@ -16,7 +16,7 @@ A clean and responsive real-time chat application built using Node.js, Socket.io
 |--------------|------------------|-----------|
 | HTML, CSS, JS | Node.js, Express | Socket.io |
 
-🌐 Live Demo
+🌐 Live Demo (hosted on Render - may take time to load)
 
 Live Website: [https://your-app-name.onrender.com](https://realtime-chat-app-13-b924.onrender.com)
 
