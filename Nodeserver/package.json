@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a NodeSever for our ichat Application",
+  "main": "index.js",
+  "scripts": {
+    
+    "start":"node NodeSever/index.js"
+  },
+  "author": "Bablu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
