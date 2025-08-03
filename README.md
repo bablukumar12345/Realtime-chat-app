@@ -22,7 +22,7 @@ Live Website: [https://your-app-name.onrender.com](https://realtime-chat-app-13-
 
 🙋‍♂️ Author
 Bablu Kumar
-🔗 GitHub: bablukumar12345
+🔗 GitHub: https://github.com/bablukumar12345
 📧 Email: babluk22850@gmail.com
 
 
